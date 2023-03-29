@@ -1,0 +1,3 @@
+# dont track weird temp files
+*.bak_000f
+
