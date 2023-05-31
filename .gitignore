@@ -2,3 +2,6 @@
 *.bak_000f
 *.lck
 *.vpp.*
+
+# macOS
+.DS_Store
